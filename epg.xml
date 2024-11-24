@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv>
+    <!-- Define the Channel -->
+    <channel id="elvis-naci-channel">
+        <display-name>Elvis Naçi Channel</display-name>
+    </channel>
+
+    <!-- Program Schedule -->
+    <programme start="20241124000000 +0000" stop="20241124010000 +0000" channel="elvis-naci-channel">
+        <title>Ligjerata nga Elvis Naçi</title>
+        <desc>Ligjerata nga Elvis Naçi - Inspirational lectures by Elvis Naçi.</desc>
+    </programme>
+    <programme start="20241124010000 +0000" stop="20241124020000 +0000" channel="elvis-naci-channel">
+        <title>Ligjerata nga Elvis Naçi</title>
+        <desc>Ligjerata nga Elvis Naçi - Inspirational lectures by Elvis Naçi.</desc>
+    </programme>
+    <programme start="20241124020000 +0000" stop="20241124030000 +0000" channel="elvis-naci-channel">
+        <title>Ligjerata nga Elvis Naçi</title>
+        <desc>Ligjerata nga Elvis Naçi - Inspirational lectures by Elvis Naçi.</desc>
+    </programme>
+    <programme start="20241124030000 +0000" stop="20241124040000 +0000" channel="elvis-naci-channel">
+        <title>Ligjerata nga Elvis Naçi</title>
+        <desc>Ligjerata nga Elvis Naçi - Inspirational lectures by Elvis Naçi.</desc>
+    </programme>
+    <!-- Repeat this block for all 24 hours -->
+    <programme start="20241124230000 +0000" stop="20241125000000 +0000" channel="elvis-naci-channel">
+        <title>Ligjerata nga Elvis Naçi</title>
+        <desc>Ligjerata nga Elvis Naçi - Inspirational lectures by Elvis Naçi.</desc>
+    </programme>
+</tv>
